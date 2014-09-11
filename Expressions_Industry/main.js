@@ -15,3 +15,6 @@
 var widthPage = prompt ("What is the width of the homepage?");
 
 //What is the height of the homepage?
+
+var heightPage = prompt ("What is the height of the homepage?");
+
