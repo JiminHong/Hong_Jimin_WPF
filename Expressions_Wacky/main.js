@@ -20,7 +20,8 @@ var numberTeams = prompt("How many teams do you have in your company?");
 //How many images do each team have to find?
 
 var imagesTeams = totalImages/numberTeams;
-console.log("You are a team leader of Apple Company. You are required to find "+totalImages+" images by Tim Cook. Since you have "+numberTeams+" teams, each team needs to find total "+imagesTeams+" images.");
+console.log("You are a team leader of Apple Company. You are required to find "+totalImages+" images by Tim Cook.");
+
 
 //How many leaders do you have in a team?
 
@@ -30,12 +31,20 @@ var numberLeaders = prompt("How many team leaders do you have in a team?");
 
 var numberTeamMembers = prompt ("How many team members do you have in a team?");
 
+
+console.log("There are "+numberTeams+" teams in your company. There are "+numberLeaders+" team leader(s) and there are "+numberTeamMembers+" team members in a team.")
+
+
 //How many people are there in your company?
 
-var people = numberLeaders+numberTeamMembers;
+var peopleTeam = Number(numberLeaders)+Number(numberTeamMembers);
 
-//how many images does a person have to find?
+console.log("There are "+peopleTeam+ "people in a team.")
 
-var imagesPerson = totalImages/people;
+var peopleCompany =Number(peopleTeam)*Number(numberTeams);
 
-console.log("Since there are "+people+" people in your company and you are one of the team leader, you will need to find "+imagesPerson+" images.");
+console.log("There are "+peopleCompany+" people in this company.");
+
+
+
+
