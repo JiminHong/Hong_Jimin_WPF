@@ -45,6 +45,8 @@ var peopleCompany =Number(peopleTeam)*Number(numberTeams);
 
 console.log("There are "+peopleCompany+" people in this company.");
 
+var imagePerPerson = totalImages/peopleCompany;
 
+console.log("As a team leader, you have to find total "+imagePerPerson+" images.");
 
 
