@@ -9,3 +9,9 @@
 //I would like to fill the background with a picture I like. The picture's width is 100px and height is 200px.
 //How many pictures can I put in this homepage?
 
+//How big is the homepage?
+//What is the width of the homepage?
+
+var widthPage = prompt ("What is the width of the homepage?");
+
+//What is the height of the homepage?
