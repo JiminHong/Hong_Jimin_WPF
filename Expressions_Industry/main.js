@@ -18,3 +18,10 @@ var widthPage = prompt ("What is the width of the homepage?");
 
 var heightPage = prompt ("What is the height of the homepage?");
 
+//What is the area of the homepage?
+
+var areaPage = heightPage*widthPage;
+
+console.log("Since width of the homepage is "+widthPage+"px and the height of it is "+heightPage+"px, the area of this homepage is "+areaPage+"px.");
+
+
