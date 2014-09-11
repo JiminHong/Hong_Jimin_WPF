@@ -28,7 +28,7 @@ var times = prompt("How many times do I need to go for one class in this month?"
 var totalClassesTime = classes*times;
 console.log(totalClassesTime);
 
-console.log("I have "+classes+" in this month and I have to go " +times+ " times in one class. Therefore, I have to purchase "+totalClassesTime+" "+"t-shirts in this month.");
+console.log("I have "+classes+" class(es) in this month and I have to go " +times+ " times in one class. Therefore, I have to purchase "+totalClassesTime+" "+"t-shirts in this month.");
 
 
 //If I need 11 t-shirts, how much do I need to buy them?
