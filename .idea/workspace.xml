@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59926c9b-a253-4c25-bb0c-417d268f6750" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Personal/index.html" afterPath="$PROJECT_DIR$/Expressions_Personal/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Personal/main.js" afterPath="$PROJECT_DIR$/Expressions_Personal/main.js" />
     </list>
     <ignored path="Hong_Jimin_WPF.iws" />
@@ -37,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14981273" vertical-offset="0" max-vertical-offset="801">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions_Personal/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4181818" vertical-offset="0" max-vertical-offset="825">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -102,11 +113,11 @@
         <option value="$PROJECT_DIR$/day4/js/day4_Casting.js" />
         <option value="$PROJECT_DIR$/day4/js/day4_Prompt.js" />
         <option value="$PROJECT_DIR$/Expressions_Industry/index.html" />
-        <option value="$PROJECT_DIR$/Expressions_Personal/index.html" />
         <option value="$PROJECT_DIR$/Expressions_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Expressions_Industry/main.js" />
         <option value="$PROJECT_DIR$/Expressions_Wacky/main.js" />
         <option value="$PROJECT_DIR$/Expressions_Personal/main.js" />
+        <option value="$PROJECT_DIR$/Expressions_Personal/index.html" />
       </list>
     </option>
   </component>
@@ -471,14 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
@@ -537,11 +540,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Personal/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4181818" vertical-offset="0" max-vertical-offset="825">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14981273" vertical-offset="0" max-vertical-offset="801">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
