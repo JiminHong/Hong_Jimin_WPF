@@ -32,3 +32,7 @@ var widthImage = prompt("What is the width of the image you would like to use?")
 
 // What is the height of the image I'd like to use?
 var heightImage = prompt ("What is the height of the image you would like to use?");
+
+var areaImage = widthImage*heightImage;
+
+console.log("Since the width of the image is "+widthImage+"px and the height of it is "+heightImage+"px, the area of the image is"+areaImage+"px.");
