@@ -10,3 +10,12 @@
 //We have total five teams.
 //There are 4 team members in one team and there is one team leader in one team.
 //If all people need to find same amount of images, how many images do I need to find?
+
+//How many images does the boss require to you?
+var totalImages = prompt("How many images did your boss require you to find?");
+
+//how many teams do you guys have?
+var numberTeams = prompt("How many teams do you have in your company?");
+
+//How many images do each team have to find?
+
