@@ -29,3 +29,13 @@ var numberLeaders = prompt("How many team leaders do you have in a team?");
 //How many team members are there?
 
 var numberTeamMembers = prompt ("How many team members do you have in a team?");
+
+//How many people are there in your company?
+
+var people = numberLeaders+numberTeamMembers;
+
+//how many images does a person have to find?
+
+var imagesPerson = totalImages/people;
+
+console.log("Since there are "+people+" people in your company and you are one of the team leader, you will need to find "+imagesPerson+" images.");
