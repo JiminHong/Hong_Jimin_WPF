@@ -14,5 +14,11 @@ var hour = prompt("How many hours do I need to work?")
 
 var priceTshirt = prompt("How much is the t-shirt?")
 
-//I have 11 classes in this month.
+//I have 1 class in this month.
+
+var classes = prompt ("How many classes do I have in this month?")
+
+//I have to go 11 times per one class in this month.
+
+var times = prompt ("How many times do I need to go for one class?")
 
