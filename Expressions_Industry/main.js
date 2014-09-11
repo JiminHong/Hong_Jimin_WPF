@@ -35,4 +35,11 @@ var heightImage = prompt ("What is the height of the image you would like to use
 
 var areaImage = widthImage*heightImage;
 
-console.log("Since the width of the image is "+widthImage+"px and the height of it is "+heightImage+"px, the area of the image is"+areaImage+"px.");
+console.log("Since the width of the image is "+widthImage+"px and the height of it is "+heightImage+"px, the area of the image is "+areaImage+"px.");
+
+
+//To find out how many images I can put or use in this home page as a background image, I have to divide area of the homepage by the area of the area of image.
+
+var numberImages = areaPage/areaImage;
+
+console.log("Since the area of the homepage is "+areaPage+"px and the area of image is "+areaImage+"px, you can use "+numberImages+" images in this homepage as background image.");
