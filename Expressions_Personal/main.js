@@ -22,14 +22,15 @@ var times = prompt ("How many times do I need to go for one class?");
 
 
 
-//How many times do I need to buy t-shirt in this month?
+//How many times do I need to buy t-shirt in this month?or How many t-shirt do I need in this month?
 var totalClassesTime = classes*times;
 console.log(totalClassesTime);
 
 console.log("I have "+classes+" "+"class(es) in this month and I have to go " +times+ "times in one class."
-"I have to purchase "+totalClassesTime+" "+"t-shirts in this month."  );
+"Therefore, I have to purchase "+totalClassesTime+" "+"t-shirts in this month." );
 
 
-//How many times do I need to buy t-shirt? or How many t-shirt do I need in this month?
+//If I need 11 t-shirts, how much do I need to buy them?
+var totalMoney = totalClassesTime*priceTshirt;
 
-var
+console.log("Since a t-shirt is $"+priceTshirt+", I need $" +totalMoney+".")
