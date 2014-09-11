@@ -66,3 +66,17 @@ var serviceDog = true;
 var kennel = ["Fido","Max","Tom"];
 
 console.log(animal+" "+age+" "+fName+" "+lName+" "+serviceDog+" "+kennel[0])
+
+
+
+
+
+var x=4;
+var stuff=[x,20,"Bob"];
+stuff[1]=stuff[0]*2;
+x--;
+var y=stuff[0]*x;
+x+=3;
+x=-;
+
+console.log(x);
