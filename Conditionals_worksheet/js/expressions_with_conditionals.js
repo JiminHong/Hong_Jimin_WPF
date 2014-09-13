@@ -11,17 +11,17 @@
 
 var degree = prompt("What is the current temperature?");
 
-var convert = prompt("Do you want to convert it to Celsius or Fahrenheit?");
+var tempType = prompt("Do you want to convert it to Celsius or Fahrenheit?");
 
 convertedTempFtoC = (degree-32)/1.8;
 convertedTempCtoF = 1.8*degree+32;
 
 
-if(convert = "Fahrenheit"){
+if(tempType === "Fahrenheit"){
     //Celsius to Fahrenheit
 
     console.log("The temperature is "+convertedTempCtoF+"F.");
-}else if(convert = "Celsius"){
+}else if(tempType === "Celsius"){
     //Fahrenheit to Celsius
 
     console.log("The temperature is "+convertedTempFtoC+"C.");
