@@ -9,3 +9,6 @@
 var usernameByUser = prompt("What is your username?");
 var passwordByUser = prompt("What is your password?");
 
+//Given username and password
+var username = "ABC";
+var password = "123";
