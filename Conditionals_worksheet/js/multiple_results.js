@@ -30,7 +30,11 @@ else if (usernameByUser != username && passwordByUser === password){
 }
 
 //Password doesn't match our records.
-else{
+else if (usernameByUser === username && passwordByUser != password){
     //when your password is not correct.
     console.log("Password does not match our records.");
+}
+
+else {
+    console.log ("you need to make a new account");
 }
