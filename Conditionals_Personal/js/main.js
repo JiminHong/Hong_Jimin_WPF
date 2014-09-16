@@ -8,7 +8,7 @@ var min = prompt("How many family members do you have?");
 
 var max = prompt("How many friends do you have?");
 
-var price = prompt ("how much is the souvenir?");
+
 
 //your random price of a gift you can get for your people is.
 //You can get - of gifts
@@ -25,6 +25,11 @@ if (max==="" || max==="0")
 var randomNumber = Math.round(Math.random()*((Number(max)+Number(min))-Number(min))+Number(min));
 
 console.log("This is random number. You want to get at least "+randomNumber+" souvenirs in Japan for your people.");
+
+
+var price = prompt ("how much is the souvenir?");
+
+
 //total price of the random number of souvenirs
 var totalPrice = price * randomNumber;
 
