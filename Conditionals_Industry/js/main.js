@@ -31,3 +31,8 @@ else if (pages > 10 && pages <= 200){
 
     console.log ("Minimum price for 10 pages is $500. Over 10 pages, we will charge $60 per a page. Since you would like to make "+pages+" pages, your total is $"+totalPrice+".");
 }
+
+//if the client wants more than 200 pages.
+else if (pages > 200){
+    pages = prompt ("We can make up to 200 pages. Please re-enter the number.");
+}
