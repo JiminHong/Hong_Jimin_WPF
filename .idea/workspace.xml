@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59926c9b-a253-4c25-bb0c-417d268f6750" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6_Examples/js/day6_Math.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6_Examples/js/day6_Math02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5_Conditionals_Practice/js/exercise_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_Industry/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_Personal/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_Wacky/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6_Examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_Industry/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_Personal/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_Wacky/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day5_Conditionals_Practice/js/Ternary.js" afterPath="$PROJECT_DIR$/day5_Conditionals_Practice/js/Ternary.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day5_Conditionals_Practice/index.html" afterPath="$PROJECT_DIR$/day5_Conditionals_Practice/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day5_practice/js/main_05.js" afterPath="$PROJECT_DIR$/day5_practice/js/main_05.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Personal/js/main.js" afterPath="$PROJECT_DIR$/Conditionals_Personal/js/main.js" />
     </list>
     <ignored path="Hong_Jimin_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,8 +38,8 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_Personal/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0862069" vertical-offset="0" max-vertical-offset="696">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.19396552" vertical-offset="0" max-vertical-offset="696">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -869,8 +856,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Personal/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0862069" vertical-offset="0" max-vertical-offset="696">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.19396552" vertical-offset="0" max-vertical-offset="696">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
