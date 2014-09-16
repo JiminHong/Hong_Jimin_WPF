@@ -17,3 +17,10 @@ var randomNumber = Math.round(Math.random()*(Number(max)+Number(min)-Number(min)
 
 console.log("This is random number. You want to get "+randomNumber+" souvenirs in Japan for your family and friend (or cousin(s)).");
 
+
+if (max==="")
+{
+    console.log("please enter the number of your cousins");
+    max = prompt ("If you don't have friend please enter the number of your cousins ");
+}
+
