@@ -30,7 +30,7 @@ var paycheck = 660;
  if(iPadPrice < budget && paycheck > 600){
  console.log("You CAN buy an iPad!");
  }else {
- console.log("You cannot buy an iPad! :(");
+ console.log("You cannot buy an iPad!");
  }
 
 
