@@ -24,3 +24,7 @@ if (max==="")
     max = prompt ("If you don't have friend please enter the number of your cousins ");
 }
 
+//isNAN = it is not a number
+if(isNaN(min) || min===""){
+    min = prompt ("PLEASE enter a number and do not leave blank");
+}
