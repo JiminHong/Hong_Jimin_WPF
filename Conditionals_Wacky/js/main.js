@@ -31,9 +31,9 @@ var maxTime = 60;
 
 var time = Math.round(Math.random()* (Number(maxTime)-Number(minTime))+Number(minTime));
 
-console.log("your guard will see you for "+time+" seconds.");
+console.log("your guard will see you for "+Number(time)+" seconds.");
 
 
+var totalRice = Number(days)*Number(riceOneSecond)*Number(time);
 
-
-console.log("I assume you can have total "+totalRice+" rice today.")
+console.log("I assume you can have total "+totalRice+" for "+days+ " days.");
