@@ -1,3 +1,11 @@
+//Jimin Hong
+//9/15/2014
+//Web Programming Fundamentals
+//Section_00
+//Conditionals worsheet
+//Conditionals
+
+
 // Jimin's web design company
 // client will enter the number of pages they want to build.
 // there is a minimum price
@@ -12,7 +20,6 @@ var pages = prompt("How many pages do you want to build for your website?");
 
 //if the client put nothing
 if(pages === ""){
-
     pages = prompt ("PLEASE enter a number and do not leave blank");
 }
 
