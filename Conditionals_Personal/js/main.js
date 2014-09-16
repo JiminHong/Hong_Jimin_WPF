@@ -13,18 +13,15 @@ var max = prompt("How many friends do you have?");
 //You can get - of gifts
 
 
-var randomNumber = Math.round(Math.random()*(Number(max)+Number(min)-Number(min))+Number(min));
-
-console.log("This is random number. You want to get "+randomNumber+" souvenirs in Japan for your family and friend (or cousin(s)).");
-
-
 if (max==="")
 {
     console.log("please enter the number of your cousins");
     max = prompt ("If you don't have friend please enter the number of your cousins ");
 }
 
-//isNAN = it is not a number
-if(isNaN(min) || min===""){
-    min = prompt ("PLEASE enter a number and do not leave blank");
-}
+
+
+var randomNumber = Math.round(Math.random()*((Number(max)+Number(min))-Number(min))+Number(min));
+
+console.log("This is random number. You want to get "+randomNumber+" souvenirs in Japan for your family and friend(s) (or cousin(s)).");
+
