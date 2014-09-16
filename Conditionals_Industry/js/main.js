@@ -9,3 +9,9 @@ alert("Hello! Welcome to Jimin's web design company!");
 //ask how many pages do they want?
 var pages = prompt("How many pages do you want to build for your website?");
 
+
+//if the client put nothing 
+if(pages === ""){
+
+    pages = prompt ("PLEASE enter a number and do not leave blank");
+}
