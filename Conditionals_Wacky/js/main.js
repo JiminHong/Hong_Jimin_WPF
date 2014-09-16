@@ -15,17 +15,23 @@
 
 var days = prompt ("how many days are you gonna try to eat rice when the guard is not looking at you?");
 
-var min = 0;
-var max = 3;
+console.log(days);
 
 
-var riceOneSecond = Math.round(Math.random()*(Number(max)-Number(min))+Number(min));
+var minRice = 0;
+var maxRice = 3;
+
+var riceOneSecond = Math.round(Math.random()*(Number(maxRice)-Number(minRice))+Number(minRice));
 
 console.log(riceOneSecond);
 
+//Assume how long the guard will not look at you
+var minTime = 0;
+var maxTime = 60;
 
+var time = Math.round(Math.random()* (Number(maxTime)-Number(minTime))+Number(minTime));
 
-console.log(days);
+console.log(time);
 
 
 
