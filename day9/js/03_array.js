@@ -15,3 +15,6 @@ testArray[4]="pringle";
 //pop(take away) removes last item from the array
 testArray.pop();
 console.log(testArray);
+
+
+
