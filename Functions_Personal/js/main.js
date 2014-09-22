@@ -2,6 +2,10 @@
 //I have only one class in this month
 //Prompts!
 
+//How many courses do I have in this month?
+
+var courses = prompt("How many courses do you have in this month?")
+
 //How many classes do I have?
 var classes = prompt("How many classes do you have in one course?");
 
@@ -22,17 +26,17 @@ functionName(arguments);
 */
 
 //totalHours is a function name.
-//parameter c = classes , h = hour
-var totalHours = function (c,h){
+//parameter r = course, c = classes , h = hour
+var totalHours = function (r,c,h){
 
 
     //code to execute
-    var hours = c*h;
+    var hours = r*c*h;
 
     //return value
     return hours;
-}
+};
 
-//fuction name and arguments
-var anon = totalHours(classes,hour);
+//function name and arguments
+var anon = totalHours(courses,classes,hour);
 console.log(anon);
