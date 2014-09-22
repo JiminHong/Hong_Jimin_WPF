@@ -32,3 +32,7 @@ var totalHours = function (c,h){
     //return value
     return hours;
 }
+
+//fuction name and arguments
+var anon = totalHours(classes,hour);
+console.log(anon);
