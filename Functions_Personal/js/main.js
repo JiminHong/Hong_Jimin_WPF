@@ -23,4 +23,12 @@ functionName(arguments);
 
 //totalHours is a function name.
 //parameter c = classes , h = hour
-var totalHours = function (c,h)
+var totalHours = function (c,h){
+
+
+    //code to execute
+    var hours = c*h;
+
+    //return value
+    return hours;
+}
