@@ -13,7 +13,7 @@
 // Find rough average amount of rice you can eat today.
 
 
-var days = prompt ("how many days are you gonna try to eat rice when the guard is not looking at you?");
+var days = prompt ("You are in jail! How many days are you gonna try to eat rice when the guard is not looking at you?");
 
 console.log("you will try to eat rice for "+days+" days.");
 
