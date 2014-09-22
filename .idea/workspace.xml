@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59926c9b-a253-4c25-bb0c-417d268f6750" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Industry/js/main.js" afterPath="$PROJECT_DIR$/Functions_Industry/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Wacky/js/main.js" afterPath="$PROJECT_DIR$/Functions_Wacky/js/main.js" />
     </list>
     <ignored path="Hong_Jimin_WPF.iws" />
@@ -89,8 +88,8 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09090909" vertical-offset="0" max-vertical-offset="825">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.18181819" vertical-offset="0" max-vertical-offset="825">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -959,8 +958,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09090909" vertical-offset="0" max-vertical-offset="825">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.18181819" vertical-offset="0" max-vertical-offset="825">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
