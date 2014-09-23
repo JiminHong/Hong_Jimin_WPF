@@ -33,6 +33,6 @@ function imageArea(h,w){
 
 //(condition to be met) ? first set of stuff : else stuff;
 
-(a >= 100)?console.log("You can use your image."):console.log("You cannot use your image.");
+//Ternary
 
-    */
+(a >= 100)?console.log("You can use your image."):console.log("You cannot use your image.");
