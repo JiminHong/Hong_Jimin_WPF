@@ -20,7 +20,10 @@ console.log("Area of your image is "+a+".");
 //Function name and functions
 function imageArea(h,w){
 
+    //Calculate the area of the rectangle
     var areaOfImage = h*w;
+
+    //return it
     return areaOfImage;
 }
 
