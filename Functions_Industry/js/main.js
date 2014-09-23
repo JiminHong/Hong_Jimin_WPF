@@ -11,11 +11,13 @@ var a = imageArea(height,width);
 
 
 
+//Normal function
 
-/*
 
 console.log("Area of your image is "+a+".");
 
+
+//Function name and functions
 function imageArea(h,w){
 
     var areaOfImage = h*w;
